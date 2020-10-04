@@ -1,0 +1,6 @@
+perspective-viewer {
+  height: 50vh;
+  width: 700px;
+  box-shadow: 2px 2px 16px gray;
+  margin-top: 2rem;
+}

@@ -1,0 +1,5 @@
+perspective-viewer {
+  height: 50vh;
+  width: 700px;
+  transition: 4s ease-in;
+}
